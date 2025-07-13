@@ -11,6 +11,8 @@ Given a natural language query and a dataset, the system performs the following 
 2. **Visualization**: The code is executed to generate a chart using libraries like `plotly`.
 3. **Narrative Generation**: A natural language explanation is generated to describe trends, patterns, and insights from the visualization.
 
+![alt text](workflow.png)
+
 The goal is to explore how LLMs can assist in transforming raw data into meaningful visual stories, making insights accessible to broader audiences.
 
 ---
