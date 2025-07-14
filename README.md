@@ -2,7 +2,7 @@
 
 This repository accompanies a short paper developed for the course **INF2063 – Planning and Storytelling for AI in Startups**, 2025.1, Department of Informatics, PUC-Rio.
 
-## 📌 Overview
+## Overview
 
 This work presents a workflow that integrates **Text-to-VIS** (e.g., Vanna AI) and **data storytelling** using Large Language Models (LLMs).  
 Given a natural language query and a dataset, the system performs the following steps:
@@ -17,7 +17,7 @@ The goal is to explore how LLMs can assist in transforming raw data into meaning
 
 ---
 
-## 📊 Case Studies
+## Case Studies
 
 Three case studies were designed to evaluate different data storytelling challenges using LLMs:
 
