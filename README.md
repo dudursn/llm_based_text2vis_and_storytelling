@@ -15,7 +15,6 @@ Given a natural language query and a dataset, the system performs the following 
 
 The goal is to explore how LLMs can assist in transforming raw data into meaningful visual stories, making insights accessible to broader audiences.
 
----
 
 ## Case Studies
 
@@ -30,4 +29,4 @@ Evaluates how LLMs process categorical data and summarize aggregated values in v
 ### 3. Is There a Relationship Between Movie Budget and Gross Income?  
 Focuses on LLMs’ ability to explore relationships and correlations between continuous variables.
 
----
+
