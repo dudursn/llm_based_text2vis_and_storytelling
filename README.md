@@ -1,6 +1,6 @@
 # Text-to-VIS and Data Storytelling with LLMs
 
-This repository accompanies a short paper developed for the course **INF2063 – Planning and Storytelling for AI in Startups**, 2025.1, Department of Informatics, PUC-Rio.
+This repository accompanies a work developed for the course **INF2063 – Planning and Storytelling for AI in Startups**, 2025.1, Department of Informatics, PUC-Rio.
 
 ## Overview
 
